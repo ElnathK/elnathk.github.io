@@ -1,8 +1,6 @@
-title: Period.kr
+title: Period.
 description: >- # this means to ignore newlines until "baseurl:"
-  1. 시간의 구분 - 기간 또는 주기
-  2. 역사의 구분 - 시대 
-  3. 문장의 구분 - 마침표
+  시간. 역사. 문장.
 
 theme: minima
 plugins:
